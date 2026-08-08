@@ -1,0 +1,8 @@
+{
+  "name": "TrueTrack",
+  "description": "A holistic habit tracker and manifestation tool featuring daily reflections, monthly goal tracking, mental health AI support, and habit growth analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
